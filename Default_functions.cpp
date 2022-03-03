@@ -36,7 +36,7 @@ int main()
 {
     cout<<"Hello World\n";
     test obj;//default constructor will be called
-    obj.Show();//junk value, var1 not initialized
+    obj.Show();//junk value, var1 not initialized 
     test a(6);
 
     return 0;
